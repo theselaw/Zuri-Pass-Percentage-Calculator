@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Charm:wght@400;700&family=Mrs+Saint+Delafield&family=Press+Start+2P&family=Tangerine:wght@400;700&display=swap");
+table {
+  width: 100%;
+  border: dotted 3px white;
+  border-spacing: 10px;
+}
+body,
+table,
+th,
+td,
+tr {
+  color: white;
+  font-family: "Press Start 2P", cursive;
+  background-color: black;
+  justify-content: center;
+  text-align: center;
+  justify-items: center;
+}
+th {
+  color: green;
+}
+td {
+  color: yellow;
+}
+b {
+  padding-top: 50vh;
+  font-family: "Tangerine", cursive;
+  font-size: 32 px;
+}
+span {
+  font-family: Monospace;
+}
