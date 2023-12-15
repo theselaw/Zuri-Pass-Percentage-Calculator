@@ -4,6 +4,7 @@ table {
   border: dotted 3px white;
   border-spacing: 10px;
 }
+h1{color:red;}
 body,
 table,
 th,
